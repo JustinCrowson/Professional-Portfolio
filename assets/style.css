@@ -1,0 +1,39 @@
+header {
+  padding: 40px;
+  text-align: center;
+  background: #000000;
+  color: #fff;
+}
+
+nav {
+  display: center;
+}
+
+nav a {
+  color: #fff;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+
+
+
+h5 {
+  font-size: 1.3em;
+}
+
+img {
+width: 250px;
+height: 250px;
+}
+
+footer {
+  padding: 40px;
+  text-align: center;
+  background: #000000;
+  color: #fff;
+
+}
